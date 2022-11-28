@@ -494,6 +494,7 @@ var _ = (function () { // https://gomakethings.com/creating-your-own-vanilla-js-
 			// 'APP_TimesheetUuid': https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript/2117523#2117523
 			'APP_BeginTime': properties.APP_BeginTime,
 			'APP_EndTime': properties.APP_EndTime,
+			'APP_IsHomeOffice': false,
 			'APP_Description': properties.APP_Description,
 			'APP_TaskUuid': properties.APP_TaskUuid,
 			'APP_ProjectUuid': properties.APP_ProjectUuid,
